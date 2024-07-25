@@ -18,7 +18,7 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nickolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/moto_moto_swagy)[![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:krasilov.kolya@yandex.ru)
 
 
-### - Languages and Tools...
+### - Языки и инструменты...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -35,6 +35,10 @@
   
  <img width="600" src="snake.svg" alt="snake"/>
 </p>
+Моя статистика Code Wars:
+
+[![Codewars](https://www.codewars.com/users/krasilov_nickolay/badges/large)](https://www.codewars.com/users/krasilov_nickolay)
+
 
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nickolaykrasilov&show_icons=true)
