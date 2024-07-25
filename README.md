@@ -15,7 +15,7 @@
 
 - 🔭 Изучаю JavaScript и Python
 - ⚡ Студент ЮФУ МехМат
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nickolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/https://t.me/moto_moto_swagy)[![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:krasilov.kolya@yandex.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nickolay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/moto_moto_swagy)[![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:krasilov.kolya@yandex.ru)
 
 
 </p>
