@@ -35,3 +35,7 @@
   
  <img width="600" src="snake.svg" alt="snake"/>
 </p>
+
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nickolaykrasilov&show_icons=true)
+[![Лучшие языки](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolaykrasilov&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
