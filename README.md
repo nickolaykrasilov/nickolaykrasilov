@@ -40,6 +40,9 @@
 [![Codewars](https://www.codewars.com/users/krasilov_nickolay/badges/large)](https://www.codewars.com/users/krasilov_nickolay)
 
 
+### ⚙️ GitHub статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nickolaykrasilov&show_icons=true)
-[![Лучшие языки](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolaykrasilov&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickolaykrasilov&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickolaykrasilov&theme=dark) 
+[![Лучшие языки](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolaykrasilov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
